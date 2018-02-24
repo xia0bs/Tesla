@@ -1,0 +1,120 @@
+/*!
+This CSS resource incorporates links to font software which is the valuable copyrighted
+property of Monotype Imaging and/or its suppliers. You may not attempt to copy, install,
+redistribute, convert, modify or reverse engineer this font software. Please contact Monotype
+Imaging with any questions regarding Web Fonts:  http://www.fonts.com
+*/
+@font-face {
+  font-family: 'HeiS ASC Simplified Chinese_n5';
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/53908759-162d-408c-ba7a-825472eb025c.eot?#iefix") format("eot"); }
+
+@font-face {
+  font-family: 'HeiS ASC Simplified Chinese';
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/") "m-hei/53908759-162d-408c-ba7a-825472eb025c.eot?#iefix";
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/53908759-162d-408c-ba7a-825472eb025c.eot?#iefix") format("eot"), url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/2d0b4277-9367-41b8-8758-cd53e02196fc.woff2") format("woff2"), url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/8087b6bf-8c74-4046-b162-9c3e2cd7e789.woff") format("woff"), url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/e4604ed7-7cfc-46f6-a369-3a9872b20d02.ttf") format("truetype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/af7f6d01-5af7-47e5-aac4-8edc02b784bb.svg#af7f6d01-5af7-47e5-aac4-8edc02b784bb") format("svg");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'M Hei PRC W45_n1';
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/82832897-c928-4c0d-943d-c9321d736489.eot?#iefix") format("eot"); }
+
+@font-face {
+  font-family: 'M Hei PRC W45';
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/") "m-hei/82832897-c928-4c0d-943d-c9321d736489.eot?#iefix";
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/82832897-c928-4c0d-943d-c9321d736489.eot?#iefix") format("eot"), url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/7941258d-9f44-4d14-8733-18ce8cb1a56e.woff2") format("woff2"), url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/1514ca64-0583-4b05-a31a-490def7e63e2.woff") format("woff"), url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/107c4d4d-57ec-44f0-9154-34e69e5f7ca3.ttf") format("truetype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/ebc3336b-42d2-4bcd-83a6-461d64be99e1.svg#ebc3336b-42d2-4bcd-83a6-461d64be99e1") format("svg");
+  font-weight: 100;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'M Hei PRC W45_n3';
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/a05975aa-3e0d-47f0-b2a2-3d5ab3bdcd4f.eot?#iefix") format("eot"); }
+
+@font-face {
+  font-family: 'M Hei PRC W45';
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/") "m-hei/a05975aa-3e0d-47f0-b2a2-3d5ab3bdcd4f.eot?#iefix";
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/a05975aa-3e0d-47f0-b2a2-3d5ab3bdcd4f.eot?#iefix") format("eot"), url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/3d2cfba4-d1f1-41c4-9572-d6ad585027ae.woff2") format("woff2"), url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/e2a7dbb1-683b-43f9-93c3-3c90bd796947.woff") format("woff"), url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/209e9e03-c8da-484c-8b2f-0fa5504f0850.ttf") format("truetype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/c0b5e77b-a1e7-4989-ae5a-7fa992240b4d.svg#c0b5e77b-a1e7-4989-ae5a-7fa992240b4d") format("svg");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'M Hei PRC W45_n7';
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/c7c8daea-47dc-439d-8313-096ed2f86737.eot?#iefix") format("eot"); }
+
+@font-face {
+  font-family: 'M Hei PRC W45';
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/") "m-hei/c7c8daea-47dc-439d-8313-096ed2f86737.eot?#iefix";
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/c7c8daea-47dc-439d-8313-096ed2f86737.eot?#iefix") format("eot"), url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/139e9020-e990-454d-907a-20087a158353.woff2") format("woff2"), url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/687121c8-4fc0-4826-9ba3-49a663d219f5.woff") format("woff"), url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/c116d92c-93db-4400-a333-d131a9959f86.ttf") format("truetype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/m-hei/0e4408b8-9d34-449e-8f12-4785fa87856a.svg#0e4408b8-9d34-449e-8f12-4785fa87856a") format("svg");
+  font-weight: 700;
+  font-style: normal; }
+
+/* Open Sans */
+@font-face {
+  font-family: 'Open Sans Bold';
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/") "open-sans/bold.eot";
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/bold.eot?#iefix") format("embedded-opentype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/bold.woff2") format("woff2"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/bold.woff") format("woff"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/bold.ttf") format("truetype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/bold.svg#open_sansbold") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Open Sans Bold Italic';
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/") "open-sans/bolditalic.eot";
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/bolditalic.eot?#iefix") format("embedded-opentype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/bolditalic.woff2") format("woff2"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/bolditalic.woff") format("woff"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/bolditalic.ttf") format("truetype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/bolditalic.svg#open_sansbold_italic") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Open Sans Extra Bold';
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/") "open-sans/extrabold.eot";
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/extrabold.eot?#iefix") format("embedded-opentype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/extrabold.woff2") format("woff2"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/extrabold.woff") format("woff"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/extrabold.ttf") format("truetype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/extrabold.svg#open_sansextrabold") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Open Sans Extra Bold Italic';
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/") "open-sans/extrabolditalic.eot";
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/extrabolditalic.eot?#iefix") format("embedded-opentype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/extrabolditalic.woff2") format("woff2"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/extrabolditalic.woff") format("woff"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/extrabolditalic.ttf") format("truetype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/extrabolditalic.svg#open_sansextrabold_italic") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Open Sans Italic';
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/") "open-sans/italic.eot";
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/italic.eot?#iefix") format("embedded-opentype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/italic.woff2") format("woff2"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/italic.woff") format("woff"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/italic.ttf") format("truetype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/italic.svg#open_sansitalic") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Open Sans Light';
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/") "open-sans/light.eot";
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/light.eot?#iefix") format("embedded-opentype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/light.woff2") format("woff2"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/light.woff") format("woff"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/light.ttf") format("truetype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/light.svg#open_sanslight") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Open Sans Light Italic';
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/") "open-sans/lightitalic.eot";
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/lightitalic.eot?#iefix") format("embedded-opentype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/lightitalic.woff2") format("woff2"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/lightitalic.woff") format("woff"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/lightitalic.ttf") format("truetype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/lightitalic.svg#open_sanslight_italic") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/") "open-sans/regular.eot";
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/regular.eot?#iefix") format("embedded-opentype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/regular.woff2") format("woff2"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/regular.woff") format("woff"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/regular.ttf") format("truetype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/regular.svg#open_sansregular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Open Sans Semi Bold';
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/") "open-sans/semibold.eot";
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/semibold.eot?#iefix") format("embedded-opentype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/semibold.woff2") format("woff2"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/semibold.woff") format("woff"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/semibold.ttf") format("truetype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/semibold.svg#open_sanssemibold") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Open Sans Semi Bold Italic';
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/") "open-sans/semibolditalic.eot";
+  src: url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/semibolditalic.eot?#iefix") format("embedded-opentype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/semibolditalic.woff2") format("woff2"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/semibolditalic.woff") format("woff"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/semibolditalic.ttf") format("truetype"), url("https://www.tesla.cn/tesla_theme/fonts/protected/open-sans/semibolditalic.svg#open_sanssemibold_italic") format("svg");
+  font-weight: normal;
+  font-style: normal; }
